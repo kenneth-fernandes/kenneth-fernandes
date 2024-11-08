@@ -5,5 +5,5 @@
 <a href="https://www.instagram.com/kennyferns93/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
 <a href="mailto:kenneth.peter.fernandes@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/email.png"/></a>
 <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=kenneth-fernandes&show_icons=true&count_private=true&theme=vue-dark&hide_border=true" width="400" height="auto"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kenneth-fernandes&show_icons=true&include_all_commits=true&theme=vue-dark&hide_border=true" width="400" height="auto"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenneth-fernandes&layout=compact&theme=vue-dark&hide_border=true" width="300" height="auto"/>
